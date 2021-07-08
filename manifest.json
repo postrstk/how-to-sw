@@ -1,8 +1,0 @@
-{
-    "name": "My First PWA App",
-    "short_name": "PWA APP",
-    "theme_color": "#d00a7b",
-    "background_color": "#8f959a",
-    "display": "standalone",
-    "start_url": "."
-}
